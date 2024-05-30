@@ -29,4 +29,4 @@ int main() {
     if(angka <= 10) {
         goto loop;
     }
-}
+} 

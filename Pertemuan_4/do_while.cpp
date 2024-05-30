@@ -12,7 +12,7 @@ int main() {
     } while(angka <= 10);
 
     angka = 1;
-    
+     
     // Karena kondisi while adalah angka > 10, maka loop ini tidak akan pernah dieksekusi
     do {
         cout << angka << " ";

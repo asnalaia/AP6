@@ -46,7 +46,7 @@ int main() {
         sum += num; // Menambahkan num ke dalam sum
 
         cout << num << " ";
-    }
+    } 
     cout << endl;
     
     cout << "Suku ke " << n << " adalah " << num << endl; // Menampilkan suku ke-n
